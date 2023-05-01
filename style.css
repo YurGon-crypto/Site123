@@ -71,6 +71,7 @@ body {
   max-width: 1920px;
   padding: 0 50px 100px 50px;
   margin: 0 auto;
+  padding-top: 60px;
 }
 
 .grey-bg-container {

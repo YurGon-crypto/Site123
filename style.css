@@ -28,8 +28,6 @@ body {
 .container {
   width: 100%;
   max-width: 1180px;
-  padding: 0 20px;
-  margin: 0 auto;
 }
 
 .btn {
@@ -405,7 +403,8 @@ ul.slick-dots button:focus {
 }
 
 .calculation {
-  padding: 50px 12px 100px;
+  padding-left:20px;
+  padding-right:20px;
 }
 .calculation .template-title-left {
   max-width: 626px;

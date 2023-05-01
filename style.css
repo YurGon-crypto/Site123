@@ -953,7 +953,6 @@ ul.slick-dots button:focus {
   }
   .container-fluid {
     border-radius: 0;
-    padding: 0 0 50px 0;
   }
   .slide-item {
     height: calc(100vh - 72px);

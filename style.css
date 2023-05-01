@@ -94,6 +94,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   text-transform: uppercase;
+  margin:15px;
 }
 .template-title h5, .template-title-left h5 {
   font-weight: 300;
